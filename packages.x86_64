@@ -114,10 +114,12 @@ xorg
 lightdm
 lightdm-gtk-greeter
 cinnamon
+xdg-user-dirs
 gnome-terminal
 gnome-screenshot
 bash-completion
 networkmanager
+gedit
 
 #Installer
 grub
