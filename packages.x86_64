@@ -113,6 +113,7 @@ gnome-screenshot
 bash-completion
 networkmanager
 gedit
+neofetch
 
 #Installer
 grub
