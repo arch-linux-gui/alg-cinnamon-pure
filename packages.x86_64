@@ -106,6 +106,7 @@ zsh
 xorg-server
 lightdm
 lightdm-gtk-greeter
+xf86-input-libinput
 cinnamon
 xdg-user-dirs
 gnome-terminal
